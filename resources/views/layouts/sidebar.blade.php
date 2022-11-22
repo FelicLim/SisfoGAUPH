@@ -78,7 +78,7 @@
         </li>
 
         <li class="nav-item">
-          <a href="{{ asset('admin/user-role') }}" class="nav-link">
+          <a href="{{ asset('admin/pengajuan-replacement-class') }}" class="nav-link">
             <i class="nav-icon fas fa-user"></i>
             <p>
               Pengajuan Replacement Class
